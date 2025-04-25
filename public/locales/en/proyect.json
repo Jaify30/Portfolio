@@ -1,0 +1,11 @@
+{
+    "h2": "Projects",
+    "titulo-hospital": "Hospital Management System",
+    "descripcion-hospital": "🎯 Key Features: -User management: Administrators, doctors, and employees can efficiently manage their accounts. -Intuitive interface: Designed with WPF, ensuring a clear and smooth user experience.",
+    "titulo-ventas": "Online Course Sales",
+    "descripcion-ventas": "🎯 Key Features: This project is a web platform designed for selling and managing online courses, providing users with an intuitive and accessible experience to learn new skills.",
+    "titulo-crypto": "Cryptocurrency Quotation Tool",
+    "descripcion-crypto": "🎯 Key Features: -Real-time quotes: Allows users to check the current price of the top 20 cryptocurrencies in the market. -User-friendly interface: Designed with React, ensuring a smooth and attractive user experience.",
+    "titulo-portfolio": "Personal Portfolio",
+    "descripcion-portfolio": "🎯 Key Features: -Responsive design: Adaptable to different devices and screen sizes, ensuring an optimal user experience on mobile devices and tablets. -Interactivity: Utilizes React and Tailwind CSS for smooth and attractive navigation."
+}
