@@ -35,6 +35,13 @@ export default function Proyects() {
               Img="/Portfolio.jpg"
               Link="https://jaifydev.netlify.app/"
             />
+            <CardProyect
+              Name={t("titulo-coctail")}
+              Description={t("descripcion-coctail")}
+              Git="https://github.com/Jaify30/Buscador-bebidas"
+              Img="/image.png"
+              Link="https://coctailapp.netlify.app/"
+            />
         </div>
     </div>
   )

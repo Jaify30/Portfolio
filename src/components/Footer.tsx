@@ -12,9 +12,9 @@ export default function Footer() {
                 <h4 className="text-lg font-semibold mb-4">{t("enlaces")}</h4>
                 <ul className="space-y-2 text-sm text-blue-400">
                     <li><a href="#" className="hover:underline">{t("inicio")}</a></li>
-                    <li><a href="#sobre_mi" className="hover:underline">{t("sobremi")}</a></li>
-                    <li><a href="#Tecnologias" className="hover:underline">{t("tecnologias")}</a></li>
-                    <li><a href="#Proyectos" className="hover:underline">{t("proyectos")}</a></li>
+                    <li><a href="#sobre-mi" className="hover:underline">{t("sobremi")}</a></li>
+                    <li><a href="#tecnologias" className="hover:underline">{t("tecnologias")}</a></li>
+                    <li><a href="#proyectos" className="hover:underline">{t("proyectos")}</a></li>
                 </ul>
             </div>
 
@@ -23,13 +23,13 @@ export default function Footer() {
                 <h4 className="text-lg font-semibold mb-4">{t("redes")}</h4>
                 <div className="flex items-center gap-4">
                     <a href="https://github.com/Jaify30" target="_blank" rel="noopener noreferrer">
-                    <img src="/github-brands-solid.svg" alt="GitHub" className="w-6 h-6" />
+                    <img src="/github-brands-solid.svg" alt="GitHub" className="w-6 h-6 bg-white rounded-lg" />
                     </a>
                     <a href="https://www.linkedin.com/in/josuevillavicenciodev/" target="_blank" rel="noopener noreferrer">
-                    <img src="/linkedin-brands.svg" alt="LinkedIn" className="w-6 h-6" />
+                    <img src="/linkedin-brands.svg" alt="LinkedIn" className="w-6 h-6 bg-white rounded-lg" />
                     </a>
                     <a href="https://www.instagram.com/josuealex_3/" target="_blank" rel="noopener noreferrer">
-                    <img src="/instagram-brands.svg" alt="Instagram" className="w-6 h-6" />
+                    <img  src="/instagram-brands.svg" alt="Instagram" className=" bg-white rounded-lg w-6 h-6" />
                     </a>
                 </div>
             </div>

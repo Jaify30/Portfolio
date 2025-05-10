@@ -7,5 +7,7 @@
     "titulo-crypto": "Cotizador de Criptomonedas",
     "descripcion-crypto":"🎯 Características principales: -Cotización en tiempo real: Permite a los usuarios consultar el precio actual de las 20 criptomonedas mejor cotizadas del mercado. -Interfaz amigable: Diseñada con React, asegurando una experiencia de usuario fluida y atractiva.",
     "titulo-portfolio": "Portafolio Personal",
-    "descripcion-portfolio": "🎯 Características principales: -Diseño responsivo: Adaptable a diferentes dispositivos y tamaños de pantalla, asegurando una experiencia de usuario óptima en móviles y tablets. -Interactividad: Utiliza React y Tailwind CSS para una navegación fluida y atractiva."
+    "titulo-coctail":"Buscador de bebidas",
+    "descripcion-portfolio": "🎯 Características principales: -Diseño responsivo: Adaptable a diferentes dispositivos y tamaños de pantalla, asegurando una experiencia de usuario óptima en móviles y tablets. -Interactividad: Utiliza React y Tailwind CSS para una navegación fluida y atractiva.",
+    "descripcion-coctail":"🎯 Características principales: Aplicacion web con el proposito de buscar tragos o bebidas que se pueden tomar en la vida cotidiana, tanto alcoholicas como no alcoholicas. Implementacion de IA: Se implemento un chat, que te proporciona bebidas con los ingredientes que les proporcionas."
 }
